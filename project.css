@@ -39,7 +39,7 @@ p{
 .tekst_about_me{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 17vw);
+  grid-template-rows: repeat(2, 20vw);
   grid-gap: 10px;
   margin-left: 10vw;
   margin-right: 10vw;
